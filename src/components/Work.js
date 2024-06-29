@@ -26,8 +26,8 @@ const Work = () => {
               Work.
             </h2>
             <p className='max-w-sm mb-16'>
-              I have published many github repos to inspire and give insight
-              into what projects I've been working on these past 4 years.
+              I have published my CV , Resume, Cover Letter, Github repos such as this portfolio i made it all using code , angel raja to inspire and give insight
+              into what projects I've been working on these past years.
             </p>
             <a href='https://github.com/bhavithran1?tab=repositories'>
               <button className='btn btn-sm'>View all projects</button>
@@ -48,7 +48,7 @@ const Work = () => {
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 
               transition-all duration-700 z-50'>
-                <span className='text-3xl text-white'>React Business Website</span>
+                <span className='text-3xl text-white'>Business Website</span>
               </div>
           </div>
         </motion.div>
@@ -69,12 +69,12 @@ const Work = () => {
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 
               transition-all duration-500 z-50'
               >
-                <span className='text-gradient'>Python Development</span>
+                <span className='text-gradient'> Documentation</span>
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 
               transition-all duration-700 z-50'>
-                <span className='text-3xl text-white'>Financial Data Labeller</span>
+                <span className='text-3xl text-white'>BA/Customer analysis</span>
               </div>
           </div>
 
@@ -87,12 +87,12 @@ const Work = () => {
               <div className='absolute -bottom-full left-12 group-hover:bottom-24 
               transition-all duration-500 z-50'
               >
-                <span className='text-gradient'>Reinforcement Learning</span>
+                <span className='text-gradient'>Reinforcement Learning/ adaptibility</span>
               </div>
               {/* title */}
               <div className='absolute -bottom-full left-12 group-hover:bottom-14 
               transition-all duration-700 z-50'>
-                <span className='text-3xl text-white'>Trading Bot</span>
+                <span className='text-3xl text-white'>Smart IQ and expert in many things</span>
               </div>
           </div>
         </motion.div>

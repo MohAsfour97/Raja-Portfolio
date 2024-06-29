@@ -26,7 +26,7 @@ const Services = () => {
           viewport={{once: false, amount: 0.7 }} 
           >
               <p className='text-4xl font-bold inline border-b-4 border-pink-600 '>Skills</p>
-              <p className='py-4'>// These are the technologies I've worked with</p>
+              <p className='py-4'>// These are the tools/tech/methadologies/Approach that I've worked with</p>
           </motion.div>
 
           <motion.div
@@ -38,19 +38,19 @@ const Services = () => {
           >
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={HTML} alt="HTML icon" />
-                  <p className='my-4'>HTML</p>
+                  <p className='my-4'>Excel</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={CSS} alt="HTML icon" />
-                  <p className='my-4'>CSS</p>
+                  <p className='my-4'>figma</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={JavaScript} alt="HTML icon" />
-                  <p className='my-4'>JAVASCRIPT</p>
+                  <p className='my-4'>crm</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={ReactImg} alt="HTML icon" />
-                  <p className='my-4'>REACT</p>
+                  <p className='my-4'>HR System</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
@@ -58,15 +58,15 @@ const Services = () => {
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tensorflow} alt="HTML icon" />
-                  <p className='my-4'>TENSORFLOW</p>
+                  <p className='my-4'>communication</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Tailwind} alt="HTML icon" />
-                  <p className='my-4'>TAILWIND</p>
+                  <p className='my-4'>presentations</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
-                  <p className='my-4'>PYTHON</p>
+                  <p className='my-4'>proccess analysis</p>
               </div>
           </motion.div>
       </div>

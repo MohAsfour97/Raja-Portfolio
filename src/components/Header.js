@@ -11,8 +11,8 @@ const Header = () => {
           <img src={Logo} className='rounded-full' alt="" />
         </a>
         {/* button */}
-        <a href="https://github.com/bhavithran1">
-          <button className='btn btn-sm'>Work with me</button>
+        <a href="https://github.com/MohAsfour97">
+          <button className='btn btn-sm'>Work with me i will always believe in you</button>
           </a>
       </div>
     </div>

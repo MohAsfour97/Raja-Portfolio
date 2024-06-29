@@ -26,7 +26,7 @@ const Banner = () => {
               viewport={{once: false, amount: 0.7 }} 
               className='text-[55px] font-bold leading-[0.8] lg:text-[100px]'
               >
-              BHAVITHRAN
+              RAJAJOJO
             </motion.h1>
             <motion.div 
               variants={fadeIn("up", 0.4)} 
@@ -47,7 +47,7 @@ const Banner = () => {
             viewport={{once: false, amount: 0.7 }} 
             className='mb-8 max-w-lg mx-auto lg:mx-0'
             >
-              I'm a 17 years old Machine Learning Enthusiast and Front-End Developer from Malaysia.
+              I'm a 21-year-old passionate Princess Learning Enthusiast and skilled in Project management & Project Success, i bielive in myself to a point all my dreams came true, from the beautiful country of Sudan living in KSA.
             </motion.p>
 
             <motion.div 
@@ -58,10 +58,10 @@ const Banner = () => {
             className='flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0'
             >
               <a href='#contact'>
-                <button className='btn btn-lg'>Contact Me</button>
+                <button className='btn btn-lg'>Contact Me if your Batman</button>
               </a>
               <a href='https://github.com/bhavithran1' className='text-gradient btn-link'>
-                My Portfolio
+                My FashionPortfolio
               </a>
             </motion.div>
             {/* socials */}

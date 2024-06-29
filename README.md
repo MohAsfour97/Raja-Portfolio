@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This project is hosted with github pages on https://bhavithran1.github.io/Portfolio-website/
+This project is hosted with github pages on https://github.com/MohAsfour97/Raja-Portfolio
 
 </br>
 
@@ -12,7 +12,7 @@ This project is hosted with github pages on https://bhavithran1.github.io/Portfo
 
 ## Responsive Website
 
-This website is built to run on most device screens seamlessly
+This website is built to run on most device screens seamlessly , responsive design mobile,tablet,desktop,ipad etc.. all screens
 <br>
 <div align="center">
 <img hight="200" width="300" alt="PNG" align="center" src="https://github.com/bhavithran1/bhavithran1/blob/main/assets/phone.png">
